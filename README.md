@@ -8,13 +8,18 @@ The images are selected randomly, ensuring a fresh experience each time the prog
 This program can be used to quickly and randomly browse through a collection of images without needing to manually open each file.
 
 Features:
- - Random Image Selection: Displays a random image every 0.5 seconds.
+
+ - Displays random images from a specified folder (data).
 
  - Simple and Dynamic: Automatically updates the displayed image in a loop.
 
- - Manual Exit: Stops when the user closes the terminal or stops the script in the IDE.
+ - Plays an MP3 file (named teto.mp3) in the background in a continuous loop (te- te- te- teto teto kasane teto).
 
+ - 1h of beatiful music
 
+ - auto tipping "teto supremacy"
+
+ - Designed to be disruptive for fun, but can be frustrating if left uncontrolled.
 
 To do :
  - ~~make a background music when program is running~~
