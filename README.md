@@ -1,4 +1,5 @@
-# pearto-attack
+# Pearto attack 
+# ---> random image loop
 
 This Python script is a simple random image viewer. Upon execution, it will randomly pick and display an image from the "data" folder located in the same directory as the script. The program opens a new image every 0.5 seconds in an endless loop.
 
