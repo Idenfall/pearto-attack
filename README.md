@@ -13,3 +13,15 @@ Features:
  - Simple and Dynamic: Automatically updates the displayed image in a loop.
 
  - Manual Exit: Stops when the user closes the terminal or stops the script in the IDE.
+
+
+
+To do :
+ - make a background music when program is running
+   
+ - more image
+   
+ - automatically write "teto supremacy" in a loop
+
+ - make it runnable with a .exe
+   
